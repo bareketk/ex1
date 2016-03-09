@@ -19,4 +19,4 @@
 - חוזרים על הפעולה עם מלבן הבצק הנותר, לקבלת עוגת בורג נוספת
 - מתפיחים את הבצק בתבנית עד להכפלת הנפח, מברישים בביצה טרופה ואופים בחום של 180 מעלות כ-25 דקות עד שהעוגות שחומות וריחניות
 
-![image](http://www.morcook.co.il/sysvault/photoalbum/img634607687728294759.jpg)
+![image in the center](http://www.morcook.co.il/sysvault/photoalbum/img634607687728294759.jpg)
