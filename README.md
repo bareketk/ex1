@@ -1,22 +1,30 @@
-##[מתכון להכנת רולדת שמרים "כמו קראנץ" שוקולד חלבה  ](http://www.carine.co.il/page_205)  
-###החומרים  
-1. חצי קילו קמח
-2. חצי שקית שמרית - 25 גרם
-3. מאה גרם חמאה
-4. חמש שמיניות כוסות חלב - 150 מ"ל
-5. שני ביצים בטמפ' החדר
-6. שלוש שמיניות כוס סוכר
-7. חצי כפית מלח
-8. כוס אחת של ממרח נוטלה
-9. מאה גרם חלבה מפוררת
-10. ביצה טרופה, לזיגוג
+##[Moist Chocolate Cake Recipe](http://www.tasteofhome.com/recipes/moist-chocolate-cake )
+###Ingredients  
+1. 2 cups all-purpose flour
+2. 1 teaspoon salt
+3. 1 teaspoon baking powder
+4. 2 teaspoons baking soda
+5. 3/4 cup baking cocoa
+6. 2 cups sugar
+7. 1 cup canola oil
+8. 1 cup brewed coffee
+9. 1 cup milk
+10. 2 large eggs
+11. 1 teaspoon vanilla extract
 
-###אופן ההכנה  
-- מחלקים את הבצק ל-2 חלקים שווים
-- מרדדים כל חלק למלבן בעובי 1/2 ס"מ, מורחים בנוטלה ומפוררים חלבה מעל
-- מגלגלים לרולדה וחוצים בעזרת סכין גדול וחלק את הרולדה, כך שיתקבלו 2 רצועות ארוכות והמילוי ייחשף
-- מפתלים את שתי הרצועות לצורת בורג, ומניחים בתבנית אינגליש קייק משומנת או מרופדת בנייר אפייה
-- חוזרים על הפעולה עם מלבן הבצק הנותר, לקבלת עוגת בורג נוספת
-- מתפיחים את הבצק בתבנית עד להכפלת הנפח, מברישים בביצה טרופה ואופים בחום של 180 מעלות כ-25 דקות עד שהעוגות שחומות וריחניות
+####FAVORITE ICING:
+1. 1 cup milk
+2. 5 tablespoons all-purpose flour
+3. 1/2 cup butter, softened
+4. 1/2 cup shortening
+5. 1 cup sugar
+6. 1 teaspoon vanilla extract
 
-![image](http://www.morcook.co.il/sysvault/photoalbum/img634607687728294759.jpg)
+###Directions
+- Preheat oven to 325°. Sift together dry ingredients in a bowl. Add oil, coffee and milk; mix at medium speed 1 minute. Add eggs and vanilla; beat 2 minutes longer. (Batter will be thin.)
+- Pour into two greased and floured 9-in. round baking pans (or two 8-in. round baking pans and six muffin cups).
+- Bake 25-30 minutes. Cool 10 minutes before removing from pans. Cool on wire racks.
+- Meanwhile, for icing, combine milk and flour in a saucepan; cook until thick. Cover and refrigerate.
+- In a bowl, beat butter, shortening, sugar and vanilla until creamy. Add chilled milk mixture and beat 10 minutes. Frost cooled cake.   Yield: 12 servings.
+
+![image](http://cdn1.tmbi.com/TOH/Images/Photos/37/300x300/exps1693_OMRR2777383C08_17_3b.jpg)
