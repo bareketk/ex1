@@ -1,5 +1,5 @@
 ##[Moist Chocolate Cake Recipe](http://www.tasteofhome.com/recipes/moist-chocolate-cake )
-###Ingredients  
+###Ingredients
 1. 2 cups all-purpose flour
 2. 1 teaspoon salt
 3. 1 teaspoon baking powder
@@ -12,7 +12,8 @@
 10. 2 large eggs
 11. 1 teaspoon vanilla extract
 
-####FAVORITE ICING:
+
+#####FAVORITE ICING:
 1. 1 cup milk
 2. 5 tablespoons all-purpose flour
 3. 1/2 cup butter, softened
